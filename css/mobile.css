@@ -1,0 +1,55 @@
+@media screen and (max-width: 767px) {
+  body {
+    background-color: brown;
+  }
+  .banner {
+    width: 100%;
+  }
+  .view-more-btn{
+    width: 250px;
+  height:40px;
+  padding: 1px 6px;
+  }
+
+  .banner1 {
+    top: 10px;
+  }
+  .muctieu-thongtin {
+    display: inline-block;
+  }
+
+  .thongtin-nghenghiep {
+    display: inline-block;
+  }
+  .chungchi-giaithuong {
+    display: inline-block;
+  }
+  .nav-container {
+    border: none;
+    display: contents;
+  }
+  .avatar {
+    display: none;
+  }
+  .container-duan {
+    display: inline-block;
+  }
+  .ul-footer {
+    border: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-item {
+    border: none;
+  }
+  .web,
+  .javascript,
+  .data {
+    padding: 0;
+  }
+  #project,
+  #job-info {
+    padding: 15px;
+  }
+}
